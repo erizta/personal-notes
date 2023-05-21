@@ -22,7 +22,7 @@
 <br/>
 
 -  React JS v.18.
--  TypeScript.
+-  Javascript.
 -  Vite JS.
 -  Tailwind CSS.
 
